@@ -24,7 +24,7 @@ NHTSA rates car seats on ease of use (not crash safety — all sold seats meet f
 
 ## Our Requirements
 
-- Fits in our car (model: ___)
+- Fits in our car (2025 Mazda CX-5)
 - Compatible with a stroller (travel system or adapter) — see [stroller](stroller.md)
 - Manageable weight for carrying + transit — **lighter is better for us** given apartment + transit use
 - Easy to install correctly
@@ -183,7 +183,7 @@ At ~$120, this is the most affordable seat on the list. Carrier weighs 7.6 lbs. 
 - [x] Research top-rated infant car seats
 - [x] Check stroller compatibility — decided UPPAbaby ecosystem (Aria V2 + MINU V3)
 - [x] Decide: UPPAbaby ecosystem — chosen Aria V2 + MINU V3
-- [ ] Confirm car model for fit check
+- [x] Confirm car model for fit check — 2025 Mazda CX-5
 - [ ] Check vehicle owner's manual for load leg compatibility
 - [ ] Purchase UPPAbaby Aria V2 by week 26-28
 - [ ] Schedule free car seat inspection with a certified CPST — search [NHTSA's inspection station locator](https://www.nhtsa.gov/equipment/car-seats-and-booster-seats#inspection-station) or call your local fire station (inspections are free, by appointment, ~20-30 min) (Source: [Safe in the Seat](https://www.safeintheseat.com/post/do-fire-stations-install-car-seats))

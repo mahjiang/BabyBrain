@@ -14,7 +14,7 @@
 
 | Item | Status | Decision File | Notes |
 |------|--------|--------------|-------|
-| Infant car seat | Researching | [car-seat.md](car-seat.md) | **Non-negotiable.** Hospital won't discharge without one. |
+| Infant car seat | Decided | [car-seat.md](car-seat.md) | **UPPAbaby Aria V2.** Hospital won't discharge without one. |
 | Going-home outfit (NB or 0-3mo) | — | [clothing.md](clothing.md) | Just 1-2 outfits. Zip-up preferred over snaps. |
 | Diapers (newborn + size 1) | — | [diapering.md](diapering.md) | Don't overbuy newborn size; many babies skip it. |
 | Wipes | — | — | Fragrance-free. Water wipes are gentle for newborns. |
@@ -25,7 +25,7 @@
 
 | Item                                   | Status      | Decision File                        | Notes                                                                        |
 | -------------------------------------- | ----------- | ------------------------------------ | ---------------------------------------------------------------------------- |
-| Safe sleep space (bassinet or crib)    | Researching | [crib-bassinet.md](crib-bassinet.md) | Must meet CPSC standards. Nothing in the crib but baby + fitted sheet.       |
+| Safe sleep space (bassinet or crib)    | Decided | [crib-bassinet.md](crib-bassinet.md) | Arm's Reach or HALO bassinet → DaVinci Sammy Scallop crib. Must meet CPSC standards. |
 | Fitted sheets (2-3)                    | —           | —                                    | For whatever sleep surface you choose.                                       |
 | Changing pad + covers (2)              | —           | —                                    | Contoured pad on dresser or table works; no dedicated changing table needed. |
 | Burp cloths (6-8)                      | —           | —                                    | Cloth diapers work great as burp cloths.                                     |
@@ -38,7 +38,7 @@
 
 | Item | Status | Decision File | Notes |
 |------|--------|--------------|-------|
-| Stroller | Researching | [stroller.md](stroller.md) | Need car seat compatible + transit friendly. |
+| Stroller | Decided | [stroller.md](stroller.md) | **UPPAbaby MINU V3.** Car seat compatible + transit friendly. |
 | Baby carrier / wrap | Researching | [carrier.md](carrier.md) | Game-changer for apartment life + transit. |
 | Breast pump | — | [pumping](../06-feeding/pumping.md) | Check insurance coverage first. |
 | Bottles (if pumping or combo feeding) | — | [feeding.md](feeding.md) | Start with a small set; babies are picky. |

@@ -24,9 +24,9 @@
 
 | Category | Budget | Spent | Source | Status |
 |----------|--------|-------|--------|--------|
-| Car seat | | | | Researching |
-| Crib/bassinet | | | | Researching |
-| Stroller | | | | Researching |
+| Car seat | $450 | | UPPAbaby Aria V2 | Decided |
+| Crib/bassinet | $590–$770 | | Phased: bassinet → DaVinci Sammy Scallop | Decided |
+| Stroller | $500 | | UPPAbaby MINU V3 | Decided |
 | Carrier | | | | Researching |
 | Feeding supplies | | | | |
 | Diapering | | | | |
