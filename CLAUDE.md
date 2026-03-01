@@ -2,7 +2,7 @@
 
 ## Project Purpose
 
-This is Eric's baby prep research and planning hub. Eric is a first-time parent; his partner is currently ~20 weeks pregnant (mid-second trimester, due ~July 2026). They live in a US urban/suburban apartment with a cat, use both car and transit, and have no dedicated nursery room. Both parents get paid leave. Budget is moderate.
+This is Eric's baby prep research and planning hub. Eric is a first-time parent; his partner is currently ~20 weeks pregnant (mid-second trimester, due ~July 2026). They live in a US urban/suburban apartment with 2 cats, use both car and transit, and have no dedicated nursery room. Both parents get paid leave. Budget is moderate.
 
 ## Eric's Profile
 

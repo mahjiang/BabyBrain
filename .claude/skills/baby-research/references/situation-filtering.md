@@ -38,7 +38,7 @@ Check cross-linked files for constraints that affect the current topic:
 |-----------|---------------|---------------|
 | **Space** | CLAUDE.md ("apartment," "no nursery"), space files | Filter by dimensions, weight, fold size, storage footprint |
 | **Transport** | CLAUDE.md ("transit," "car"), requirements sections | Filter by portability, one-hand fold, stair-friendliness, weight |
-| **Pets** | CLAUDE.md ("cat"), health/sleep files | Flag sleep surface safety, gear storage, allergen considerations |
+| **Pets** | CLAUDE.md ("2 cats"), health/sleep files | Flag sleep surface safety, gear storage, allergen considerations |
 | **Budget** | CLAUDE.md ("moderate budget"), file headers | Filter by price range, flag over-budget items, note registry strategy |
 | **Timeline/Season** | CLAUDE.md (due date), file headers ("buy by week X") | Filter by seasonal relevance (summer baby → mesh carriers, AC needs) |
 | **Location** | CLAUDE.md ("urban/suburban") | Filter by terrain needs, transit access, local resources |
@@ -52,7 +52,7 @@ After reading CLAUDE.md and the target file, state the active constraints in a m
 Active constraints for this research:
 - Apartment (limited storage, no nursery)
 - Transit + car (need portability AND trunk fit)
-- Cat (sleep surface safety)
+- 2 cats (sleep surface safety)
 - Moderate budget (~$X range for this category)
 - July baby (summer heat affects gear choices)
 ```
