@@ -218,7 +218,7 @@ During the decision discussion, Eric explored premium convertible cribs that cou
    - Use a squirt bottle when cat approaches the sleep surface (cat should not see you do it — associates the crib itself with unpleasantness)
    - Provide the cat with alternative cozy sleeping spots nearby
 
-> **Our situation:** With one cat in an apartment where the bassinet will be in the bedroom, a combination approach is best: (1) choose a bassinet/sleeper with full mesh sides that make it physically awkward for the cat, (2) add a breathable mesh cover/tent from a reputable brand, and (3) start deterrent training 4-6 weeks before due date. See [cat prep](../03-space/cat-prep.md) for full plan.
+> **Our situation:** With 2 cats in an apartment where the bassinet will be in the bedroom, a combination approach is best: (1) choose a bassinet/sleeper with full mesh sides that make it physically awkward for cats, (2) add a breathable mesh cover/tent from a reputable brand, and (3) start deterrent training 4-6 weeks before due date. See [cat prep](../03-space/cat-prep.md) for full plan.
 
 (Source: [Catster — 9 Ways to Keep Cats Out of Crib](https://www.catster.com/lifestyle/keep-cats-out-of-crib/))
 (Source: [WonderBaby — Cat Cover for Bassinet](https://www.wonderbaby.org/articles/cat-cover-for-bassinet))
