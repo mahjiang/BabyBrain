@@ -1,4 +1,4 @@
-# CLAUDE.md — Baby Stuff Project
+# CLAUDE.md — Baby Brain Project
 
 ## Project Purpose
 

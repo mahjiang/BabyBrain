@@ -5,6 +5,10 @@
 
 # Jekyll
 _site/
+
+# StatiCrypt
+.staticrypt.json
+encrypted/
 .jekyll-cache/
 .jekyll-metadata
 .bundle/

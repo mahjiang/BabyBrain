@@ -6,7 +6,7 @@ nav_order: 4
 
 # Small-Space Organization
 
-> Apartment storage strategies for baby stuff.
+> Apartment storage strategies for baby gear.
 
 ## Principles
 

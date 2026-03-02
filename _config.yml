@@ -13,8 +13,7 @@ relative_links:
   enabled: true
   collections: true
 
-search_enabled: true
-search.button: true
+search_enabled: false
 
 defaults:
   - scope:
