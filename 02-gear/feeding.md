@@ -133,7 +133,7 @@ The Affordable Care Act requires most health insurance plans to cover a breast p
 
 (Sources: [BabyGearLab Best Baby Bottles](https://www.babygearlab.com/topics/nursing-feeding/best-baby-bottle), [Mommyhood101 Best Baby Bottles](https://mommyhood101.com/best-baby-bottle), [Thrive Little Best Bottles for Breastfed Babies](https://thrivelittle.com/best-bottles-for-breastfed-babies/))
 
-> **Recommendation for combo feeding:** Start with a 2-pack of Comotomo (breast-like feel, easy to clean) or a 3-pack of Lansinoh NaturalWave (designed for breast-to-bottle transition). If baby rejects those, try Dr. Brown's. Budget pick: Philips Avent Natural. Don't buy more than one brand at first.
+> **Recommendation for combo feeding:** Register for both a Comotomo 2-pack (~$23) and a Dr. Brown's Options+ 3-pack (~$18) — ~$41 total covers two top-rated options. **Try Comotomo first** (breast-like feel, easy to clean, great for breast-to-bottle transition). If baby rejects Comotomo or has colic/gas issues, switch to Dr. Brown's (gold standard anti-colic venting). At ~$41 for both, the registry covers you without a panic buy. Budget pick: Philips Avent Natural. Don't open both at once — start with Comotomo and keep Dr. Brown's sealed as backup.
 
 ---
 
@@ -248,14 +248,14 @@ A 2024 peer-reviewed study found that paced bottle feeding effectively slowed fe
 | Item | Top Pick | Price | Status | Buy When |
 |------|----------|-------|--------|----------|
 | Nursing pillow | My Brest Friend (stability) or Boppy (versatility) | ~$35-40 | Researched | Before baby — registry item |
-| Bottles (starter) | Comotomo 2-pack or Lansinoh NaturalWave 3-pack | ~$20-23 | Researched | Before baby — just 1 brand, 2-3 bottles |
+| Bottles (starter) | Comotomo 2-pack + Dr. Brown's Options+ 3-pack | ~$41 | Researched | Before baby — both on registry; try Comotomo first |
 | Bottle brush | OXO Tot with Stand | ~$10 | Researched | Before baby |
 | Drying rack | Boon Grass | ~$16 | Researched | Before baby — registry item |
 | Breast pump | Spectra S2 (insurance) + manual backup | Free–$30 | Researched | Order at 30+ weeks |
 | Storage bags | Lansinoh 50ct | ~$8 | Researched | Before baby if pumping |
 | Nipple cream | Lansinoh Lanolin | ~$10 | Researched | Before baby |
 | Breast pads | Lansinoh Disposable 60ct | ~$9 | Researched | Before baby |
-| **Total estimate (before baby)** | | **~$110-135** | | *Pump via insurance; doesn't include formula or nursing bras* |
+| **Total estimate (before baby)** | | **~$130-155** | | *Pump via insurance; doesn't include formula or nursing bras* |
 
 ---
 

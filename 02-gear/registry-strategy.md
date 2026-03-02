@@ -108,7 +108,7 @@ Great gift territory — things people love buying, where the exact brand matter
 | **Diaper fund** | Babylist cash fund | Any amount | Cash fund avoids stockpiling diapers in the apartment — buy as needed in the right size |
 | **Carrier/wrap** | See [carrier.md](carrier.md) | $65–$200 | Game-changer for apartment life + transit |
 | **Nursing pillow** | Boppy, My Brest Friend | $30–$50 | If breastfeeding |
-| **Bottles** | Start with a small set (4-6) | $20–$40 | Babies are picky — don't overbuy one brand |
+| **Bottles** | Comotomo 2-pack + Dr. Brown's 3-pack | ~$41 | Try Comotomo first; Dr. Brown's as backup |
 | **Burp cloths & bibs** | Cloth diapers work great as burp cloths | $10–$20 (set) | You'll go through many |
 | **Bouncer/rocker** | Somewhere to put baby down safely | $50–$200 | Great for apartment — gives you hands-free moments |
 | **Play mat** | Activity gym | $50–$100 | Need by ~2-3 months |
@@ -266,7 +266,7 @@ Gift-friendly items across a range of price points. Add all of these to Babylist
 - [ ] **Yogasleep Hushh portable sound machine** — ~$30
 - [ ] **Burt's Bees BEESNUG Organic Crib Sheets** x3 — ~$22 each
 - [ ] **Nursing pillow** (Boppy or My Brest Friend) — ~$30-50
-- [ ] **Bottles** (small set of 4-6, e.g., Dr. Brown's or Philips Avent) — ~$20-40
+- [ ] **Bottles** — Comotomo 2-pack (~$23) + Dr. Brown's Options+ 3-pack (~$18) — ~$41 total *(try Comotomo first for breast-like feel; Dr. Brown's as backup for colic/rejection)*
 - [ ] **Ubbi diaper pail** — ~$70-80
 
 #### Budget-Friendly Items ($5-$25)
