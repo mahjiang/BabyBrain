@@ -41,11 +41,13 @@ jobs:
         with:
           node-version: 20
 
+      - name: Encrypt search data
+        run: node scripts/encrypt-search.js
+
       - name: Encrypt with StatiCrypt
         env:
           STATICRYPT_PASSWORD: ${{ secrets.STATICRYPT_PASSWORD }}
         run: |
-          rm -f _site/assets/js/search-data.json
           npx staticrypt _site \
             -r \
             --remember 7 \

@@ -1,0 +1,55 @@
+<script>
+(function() {
+  var KEY_B64 = '__SEARCH_ENCRYPTION_KEY__';
+
+  // Skip if the placeholder was never replaced (local dev)
+  if (KEY_B64.indexOf('__SEARCH_ENCRYPTION') === 0) return;
+
+  var OrigXHR = XMLHttpRequest;
+  var origOpen = OrigXHR.prototype.open;
+  var origSend = OrigXHR.prototype.send;
+
+  OrigXHR.prototype.open = function(method, url) {
+    this._searchIntercept = (typeof url === 'string' && url.indexOf('search-data.json') !== -1);
+    this._origUrl = url;
+    return origOpen.apply(this, arguments);
+  };
+
+  OrigXHR.prototype.send = function() {
+    if (!this._searchIntercept) {
+      return origSend.apply(this, arguments);
+    }
+
+    var xhr = this;
+    var url = xhr._origUrl;
+
+    fetch(url)
+      .then(function(r) { return r.json(); })
+      .then(function(envelope) {
+        var keyBytes = Uint8Array.from(atob(KEY_B64), function(c) { return c.charCodeAt(0); });
+        var ivBytes  = Uint8Array.from(atob(envelope.iv), function(c) { return c.charCodeAt(0); });
+        var ctBytes  = Uint8Array.from(atob(envelope.ct), function(c) { return c.charCodeAt(0); });
+
+        return crypto.subtle.importKey(
+          'raw', keyBytes, { name: 'AES-CBC' }, false, ['decrypt']
+        ).then(function(key) {
+          return crypto.subtle.decrypt({ name: 'AES-CBC', iv: ivBytes }, key, ctBytes);
+        });
+      })
+      .then(function(plainBuf) {
+        var plaintext = new TextDecoder().decode(plainBuf);
+
+        Object.defineProperty(xhr, 'status',       { get: function() { return 200; } });
+        Object.defineProperty(xhr, 'readyState',    { get: function() { return 4; } });
+        Object.defineProperty(xhr, 'responseText',  { get: function() { return plaintext; } });
+
+        if (typeof xhr.onload === 'function') xhr.onload();
+      })
+      .catch(function(err) {
+        console.error('Search decryption failed:', err);
+        Object.defineProperty(xhr, 'status', { get: function() { return 0; } });
+        if (typeof xhr.onerror === 'function') xhr.onerror(err);
+      });
+  };
+})();
+</script>
