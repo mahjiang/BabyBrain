@@ -53,7 +53,8 @@ jobs:
             --template-instructions "Enter the password to view this site." \
             --template-color-primary "#6a5acd" \
             --template-color-secondary "#f0f0f0" \
-            --config false
+            --config false \
+            --short
           rm -rf _site
           mv encrypted/_site _site
 
