@@ -8,6 +8,8 @@ nav_order: 6
 
 > **Status:** Researching | **Buy by:** Week 32-34 | **Used OK:** Yes, if structurally sound
 
+> **Related files:** [essentials.md](essentials.md) | [registry-strategy.md](registry-strategy.md) | [stroller.md](stroller.md)
+
 ## Why It Matters for Us
 
 Baby wearing is especially useful for apartment + transit life:
@@ -70,12 +72,14 @@ Both parents will use this, so adjustability matters:
 
 ## Types
 
-| Type | Ages | Pros | Cons |
-|------|------|------|------|
-| **Wrap** (Solly, Boba) | Newborn--~25 lbs | Cozy, newborn-friendly, cheap, fully shareable | Learning curve to tie, hot in summer |
-| **Ring sling** | Newborn--~35 lbs | Quick on/off, nursing-friendly, breathable (linen), compact | One-shoulder weight, less good for long walks |
-| **Soft structured carrier** (Ergobaby, Lillebaby) | Newborn--toddler (7--45 lbs) | Easy to use, distributes weight well, mesh options available | Bulkier, pricier |
-| **Mei tai** | ~3 months--toddler | Adjustable, good weight distribution | Less common, learning curve |
+*Updated 2026-03-02: Situation Fit column added.*
+
+| Type | Ages | Pros | Cons | Situation Fit |
+|------|------|------|------|---------------|
+| **Wrap** (Solly, Boba) | Newborn--~25 lbs | Cozy, newborn-friendly, cheap, fully shareable | Learning curve to tie, hot in summer | **Good** -- choose Solly (TENCEL Modal) for July baby; one-size fits both parents; nearly zero storage footprint |
+| **Ring sling** | Newborn--~35 lbs | Quick on/off, nursing-friendly, breathable (linen), compact | One-shoulder weight, less good for long walks | **Good as supplement** -- linen breathes well in summer; packs into a diaper bag; one-shoulder limits to short carries, not long transit rides |
+| **Soft structured carrier** (Ergobaby, Lillebaby, Tula) | Newborn--toddler (7--45 lbs) | Easy to use, distributes weight well, mesh options for summer | Bulkier than wrap/sling, pricier | **Excellent** -- mesh options critical for July baby; adjustable for both parents; weight distribution makes long transit rides feasible; IHDI hip-healthy certified options available |
+| **Mei tai** | ~3 months--toddler | Adjustable, good weight distribution | Less common, learning curve | **Poor** -- less market support (fewer mesh options), unnecessary complexity given strong SSC options at similar price |
 
 ---
 
@@ -83,29 +87,37 @@ Both parents will use this, so adjustability matters:
 
 ### Wraps
 
-| Model | Weight Range | Price | Material | Breathability | Notes |
-|-------|-------------|-------|----------|---------------|-------|
-| **Solly Baby Wrap** | 8--25 lbs | ~$65 | TENCEL Modal (90%) / Spandex (10%) | Good -- lightweight, thinner fabric | Best wrap for summer. Buttery-soft. Easier to learn than Boba per many reviews. Machine washable. |
-| **Boba Wrap** | 7--35 lbs | ~$35--50 | French Terry cotton (95%) / Spandex (5%) | Fair -- thicker cotton retains heat | Wider weight range than Solly. More affordable. But heavier fabric = hotter in summer. |
+*Updated 2026-03-02: Prices verified. Solly raised from ~$65 to $74–$88 depending on colorway. Boba dropped to ~$40. Situation Fit column added.*
 
-**Wrap verdict for us:** Solly is the better pick for a July baby despite the higher price and lower weight limit. The lighter TENCEL Modal fabric will be meaningfully more comfortable in summer heat. The 25 lb limit is fine -- by the time baby approaches that weight (~12-18 months), you'll be using a structured carrier anyway.
+| Model | Weight Range | Price | Material | Breathability | Situation Fit | Notes |
+|-------|-------------|-------|----------|---------------|---------------|-------|
+| **Solly Baby Wrap** | 8--25 lbs | ~$74--88 | TENCEL Modal (90%) / Spandex (10%) | Good -- lightweight, thinner fabric | **Excellent** -- lightest wrap fabric available, essential for July baby; compact storage; one-size fits both parents | Best wrap for summer. Buttery-soft. Easier to learn than Boba per many reviews. Machine washable. (Verified: [Babylist](https://www.babylist.com/gp/solly-baby-wrap-carrier/14574/31648), 2026-03-02) |
+| **Boba Wrap** | 7--35 lbs | ~$40 | French Terry cotton (95%) / Spandex (5%) | Fair -- thicker cotton retains heat | **Fair** -- affordable and shareable, but heavier cotton fabric is meaningfully warmer in July; the wider weight range doesn't offset the heat disadvantage for a summer newborn | Wider weight range than Solly. More affordable. But heavier fabric = hotter in summer. (Verified: [Babylist](https://www.babylist.com/gp/boba-baby-wrap-carrier/2442/4052), 2026-03-02) |
+
+**Wrap verdict for us:** Solly is the better pick for a July baby despite the higher price (~$74–88 vs ~$40) and lower weight limit. The lighter TENCEL Modal fabric will be meaningfully more comfortable in summer heat. The 25 lb limit is fine -- by the time baby approaches that weight (~12-18 months), you'll be using a structured carrier anyway. Boba is not recommended over Solly because: Boba costs ~$34–48 less but has thicker cotton fabric that generates noticeably more heat against a summer newborn; the wider weight range (to 35 lbs) doesn't help because you'll transition to a structured carrier well before 25 lbs anyway.
 
 ### Ring Slings
 
-| Model | Weight Range | Price | Material | Breathability | Notes |
-|-------|-------------|-------|----------|---------------|-------|
-| **Wildbird Ring Sling** | Birth--35 lbs | ~$48--72 | 100% Belgian linen | Very good -- single layer linen | Beautiful. Quick to learn (good video tutorials). Linen softens with washing. Standard 74" fits most; 90" for tall/plus. |
+*Updated 2026-03-02: Price verified at $74 standard; Situation Fit column added.*
 
-**Ring sling notes:** Wildbird is the most popular premium ring sling for good reason. Linen is naturally breathable, which helps for summer. Main downside: all weight on one shoulder, so not great for long transit rides or extended walks. Best as a quick-carry option (errands, around the house, quick trips). Can be found used on Mercari/eBay for $25--40.
+| Model | Weight Range | Price | Material | Breathability | Situation Fit | Notes |
+|-------|-------------|-------|----------|---------------|---------------|-------|
+| **WildBird Ring Sling** | Birth--35 lbs | ~$74 | 100% Belgian linen | Very good -- single layer linen | **Good** -- single-layer linen is breathable for summer, packs into a diaper bag pocket (great for transit); one-shoulder design limits it to short carries, not long transit rides | Beautiful. Quick to learn (good video tutorials). Linen softens with washing. Standard 74" fits most; 90" for tall/plus. Best as supplement to a structured carrier, not a primary. (Verified: [Babylist](https://www.babylist.com/gp/wildbird-linen-ring-sling/20387/1660247), 2026-03-02) |
+
+**Ring sling notes:** WildBird is the most popular premium ring sling for good reason. Linen is naturally breathable, which helps for summer. Main downside: all weight on one shoulder, so not great for long transit rides or extended walks. Best as a quick-carry option (errands, around the house, quick trips). Can be found used on Mercari/eBay for $25--40.
 
 ### Soft Structured Carriers (SSCs)
 
-| Model | Weight Range | Price | Positions | Breathability | Waist Range | Notes |
-|-------|-------------|-------|-----------|---------------|-------------|-------|
-| **Ergobaby Omni Breeze** | 7--45 lbs | ~$200 | 4 (front in, front out, hip, back) | Excellent -- SoftFlex mesh, rated #1 in airflow testing | 25.5"--57" | Top pick overall. No infant insert needed. Color-coded Velcro adjustment tabs. IHDI hip-healthy certified. Easy to share between parents. |
-| **Ergobaby Embrace** | 7--25 lbs | ~$99 | 3 (front in, front out, newborn) | Good -- available in soft knit or breathable mesh version | 22"--54" | Newborn-specific. Simpler/cheaper alternative to Omni Breeze for early months. Knit version mimics wrap coziness. Less versatile long-term. |
-| **Lillebaby Complete All Seasons** | 7--45 lbs | ~$135--150 | 6 (fetal, infant, outward, hip, toddler, back) | Good -- zip-down panel reveals 3D mesh | Adjustable, fits most | Most carrying positions. Zip panel is clever for temperature control. Bulkier than Ergobaby. Setup/switching positions is more involved. ~$30--50 cheaper than Omni Breeze. |
-| **BabyBjorn Harmony** | 7--45 lbs | ~$230 | 4 (front in, front out, hip, back) | Good -- 3D mesh | ~54" max waist | Slides on like a T-shirt (easiest to put on). Front buckles = no reaching behind back. Priciest option. Less customizable seat width than Ergobaby. |
+*Updated 2026-03-02: Prices verified. Ergobaby Omni Deluxe added (new 2025 successor to Omni Breeze). Lillebaby corrected to current price (~$100). BabyBjorn Harmony price updated to $249.99. Tula Free-to-Grow added (BabyGearLab Editor's Choice). Situation Fit column added. Carriers ordered by Situation Fit.*
+
+| Model | Weight Range | Price | Positions | Breathability | Waist Range | Situation Fit | Notes |
+|-------|-------------|-------|-----------|---------------|-------------|---------------|-------|
+| **Ergobaby Omni Breeze** | 7--45 lbs | ~$199 | 4 (front in, front out, hip, back) | Excellent -- SoftFlex mesh, rated #1 in airflow testing | 25.5"--57" | **Excellent** -- best breathability in this comparison for a July baby; no infant insert; easy parent swap; IHDI certified; widely available used at $100--140 | Top pick for July baby. No infant insert needed. Color-coded adjustment tabs. IHDI hip-healthy certified. Has been largely succeeded by the Omni Deluxe (see below) but still widely available and functionally equivalent at a slightly lower price. (Verified: [Amazon](https://www.amazon.com/Ergobaby-Positions-Breathable-Enhanced-Graphite/dp/B092G3K1SV), 2026-03-02) |
+| **Ergobaby Omni Deluxe Mesh** *(current model)* | 7--45 lbs | $219 | 4 (front in, front out, hip, back) | Excellent -- same SoftFlex mesh as Omni Breeze, rated #1 in airflow | 25.5"--57" | **Excellent** -- identical breathability to Omni Breeze; adds 6 storage pockets and size-indicator markings on straps; $20 more than Breeze for cosmetic upgrades | Ergobaby's 2025 replacement for the Omni Breeze. Same mesh fabric, same 4 positions, same waist range. Adds: hidden buttons for cleaner look, 6 pockets vs 3, sizing lines on webbing to simplify parent-to-parent swap. Reviewers note the extra pockets are small and sizing lines "could be drawn yourself." Functional difference from Breeze is minimal. (Source: [Sheen Slings review](https://sheenslings.com/2025/03/28/ergobaby-deluxe-review-and-comparision/), 2025-03-28; Verified: [Babylist](https://www.babylist.com/gp/ergobaby-omni-deluxe-mesh/71198/2363793), 2026-03-02) |
+| **Lillebaby Complete All Seasons** *(Wirecutter #1 pick)* | 7--45 lbs | ~$100 | 6 (fetal, infant, outward, hip, toddler, back) | Good -- zip-down panel reveals 3D mesh | Adjustable, fits most | **Good** -- most positions of any carrier in this comparison; ~$100 cheaper than Omni Deluxe; mesh panel requires zip adjustment (not always-on breathability); slightly bulkier for transit/storage | Wirecutter's top pick for best baby carrier (2025--2026). (Source: [Wirecutter via NYT Deals posts](https://x.com/WirecutterDeals/status/1940786910642708813), confirmed 2026-03) 6 positions is the highest in this comparison; zip-panel is clever but requires active management for heat. ~$100 cheaper than Omni Deluxe. Recommended over Omni Deluxe if budget is the priority and 6 positions are useful; Omni Deluxe is better at always-on breathability for a summer baby. (Verified: [Babylist](https://www.babylist.com/gp/lillebaby-complete-all-seasons-6-1-baby-carrier/11200/10558), 2026-03-02) |
+| **Tula Free-to-Grow** | 7--45 lbs | $179 | 3 (front in, front out, back -- no hip carry) | Good -- mesh version available | Adjustable, fits most | **Good** -- BabyGearLab Editor's Choice for ease of use and comfort; $179 is between Lillebaby and Omni Breeze; no hip carry position is a notable gap; mesh version available for summer | BabyGearLab Editor's Choice 2025. (Source: [BabyGearLab](https://www.babygearlab.com/topics/getting-around/best-baby-carrier), 2025) Strong parent comfort and ease-of-use scores. Recommended over Lillebaby if more carrying positions aren't a priority and you prefer BGL's comfort testing; Lillebaby beats it on position count and price. Recommended over Omni Breeze/Deluxe only if comfort scores matter more than always-on mesh breathability. (Verified: [Baby Tula website](https://babytula.com/collections/free-to-grow-baby-carriers), 2026-03-02) |
+| **Ergobaby Embrace Mesh** | 7--25 lbs | ~$99 | 3 (front in, front out, newborn) | Good -- Soft Air mesh version | 22"--54" | **Good for Phase 1 only** -- excellent for newborn stage (simpler than a structured carrier, more structured than a wrap); only lasts to 25 lbs so you'll still need a long-term carrier; mesh version required for July | Newborn-specific. Simpler/cheaper alternative for early months. Get the **mesh version** explicitly (not the knit). Less versatile long-term -- consider whether the Phase 1 carrier is worth the extra purchase vs going straight to Omni Breeze/Deluxe from day one. (Verified: [Babylist](https://www.babylist.com/gp/ergobaby-embrace-baby-carrier/15401/793277), 2026-03-02) |
+| **BabyBjorn Harmony** | 7--45 lbs | $249.99 | 4 (front in, front out, hip, back) | Good -- 3D mesh | ~54" max waist | **Fair** -- easiest to put on (slides over head, front buckles only), which helps if either parent has shoulder/back issues; but $250 is the most expensive in this comparison and it offers no breathability or position advantages over the Omni Breeze at $199 | Slides on like a T-shirt -- no reaching behind back. Front-only buckles is a real ease-of-use advantage. Recommended over Omni Breeze only if ease of donning/removing is the top priority (e.g., back/shoulder mobility issues); Omni Breeze is better value at $50 less with equivalent breathability and comparable ease. (Verified: [Babylist](https://www.babylist.com/gp/babybjorn-baby-carrier-harmony/22444/854991), 2026-03-02) |
 
 ### Not Recommended for Us
 
@@ -129,54 +141,68 @@ Factors that matter most for us:
 
 ## Phased Recommendation
 
-*Added 2026-02-28*
+*Added 2026-02-28 | Updated 2026-03-02: Rewritten to be propagation-proof. Prices verified. Ergobaby Omni Deluxe added as current successor to Omni Breeze. Lillebaby price corrected. BabyBjorn Harmony price updated.*
 
 ### Phase 1: Newborn (0--4 months) -- Wrap or Embrace
 
-**Option A -- Solly Baby Wrap (~$65)**
-- Best for: snuggly newborn carrying, skin-to-skin bonding, transit, soothing
-- Summer-appropriate (lightest wrap fabric available)
+**Option A -- Solly Baby Wrap (~$74--88)**
+- Best wrap for breathability in this comparison: TENCEL Modal fabric is the lightest wrap material available; meaningfully cooler than Boba's cotton in July heat
 - Learning curve: moderate (watch tutorials before baby arrives, practice with a stuffed animal)
-- Shareable between parents
+- Shareable between parents (one-size-fits-all, re-tie to fit)
+- Recommended over Boba Wrap because: Boba costs ~$35–48 less but the heavier cotton fabric is noticeably hotter against a newborn in July; Boba's wider weight range (to 35 lbs) doesn't help since you'll transition to a structured carrier before reaching 25 lbs
 
 **Option B -- Ergobaby Embrace Mesh (~$99)**
-- Best for: parents who want structured-carrier simplicity from day one
-- No wrapping/tying -- buckle and go
-- Get the **mesh version** for July heat
-- Shareable between parents
-- Downside: only lasts to 25 lbs, so you'll still need a long-term carrier
+- Best for parents who want structured-carrier simplicity from day one with no wrapping/tying
+- Explicitly get the **Soft Air mesh version** (not the knit/Ponte version) for July heat
+- Shareable between parents (22"--54" waist range)
+- Recommended over Solly Wrap only if: the learning curve of tying a wrap is a dealbreaker; costs ~$11--25 more than Solly but removes the wrapping step entirely
+- Limitation: only lasts to 25 lbs (vs toddler for the Omni Breeze), so you'll still need a long-term carrier -- factor that into total cost decision
 
-> **My lean:** Both are good. Solly if you want the full wrap experience and are willing to learn; Embrace if wrapping feels like too much with a newborn. You could also skip this phase entirely and go straight to the Omni Breeze, which works from birth -- but wraps/Embrace are cozier for the potato-baby stage.
+> **Lean:** Solly if you want the wrap experience and are willing to learn; Embrace Mesh if the wrapping step feels like too much with a newborn. A third option: skip Phase 1 entirely and go straight to the Omni Breeze or Omni Deluxe from birth -- both work from 7 lbs and are cozier than they look. The "potato-baby" stage (first 6--8 weeks) is when wraps feel nicest, but not everyone uses that stage enough to justify the extra purchase.
 
 ### Phase 2: Long-term (3 months--toddler) -- Structured Carrier
 
-**Top pick: Ergobaby Omni Breeze (~$200)**
-- Works from 7 lbs to 45 lbs (birth through toddler) -- technically the only carrier you need
-- Best-in-class breathability for summer (SoftFlex mesh, tested #1 in airflow)
-- 4 carrying positions including front-outward (babies love this around 4-6 months)
-- Easy adjustment between parents (25.5"--57" waist)
+**Top pick: Ergobaby Omni Breeze (~$199) or Omni Deluxe Mesh ($219)**
+
+The Omni Breeze and Omni Deluxe Mesh are functionally equivalent. The Deluxe is Ergobaby's 2025 successor with cosmetic upgrades (hidden buttons, 6 pockets vs 3, sizing lines on straps) at a $20 premium. The mesh fabric is identical.
+
+- Best breathability in this comparison for a summer baby: all-over SoftFlex mesh, rated #1 in airflow among the SSCs compared here; mesh is always-on (not a zip panel you have to remember to open)
+- Works from 7 lbs to 45 lbs -- birth through toddler -- making it the only long-term carrier you need
+- 4 carrying positions including front-outward (popular 4--6 months onward)
+- Easy parent swap (25.5"--57" waist, color-coded tabs on Breeze; sizing-line markings on Deluxe)
 - IHDI hip-healthy certified
-- Widely available used ($100--140 on resale if structurally sound)
+- Widely available used ($100--140 on resale if structurally sound -- check [CPSC recall list](https://www.cpsc.gov/Recalls) before buying used)
+- **Pick Omni Breeze** if you find it on sale or used; functionally identical to Deluxe
+- **Pick Omni Deluxe** if buying new and the extra pockets/cleaner look are worth $20 more
 
-**Runner-up: Lillebaby Complete All Seasons (~$135--150)**
-- 6 positions, zip-down mesh panel for temperature control
-- ~$50 cheaper than Omni Breeze
-- Bulkier, more complex to adjust
-- Good value pick if budget is tight
+**Budget pick: Lillebaby Complete All Seasons (~$100) -- Wirecutter's #1 pick**
+- Wirecutter's top pick for best baby carrier (2025--2026). (Source: [Wirecutter](https://www.nytimes.com/wirecutter/reviews/best-baby-carriers/))
+- Best position count in this comparison: 6 positions vs 4 for Omni Breeze/Deluxe
+- ~$100 cheaper than Omni Deluxe; ~$99 cheaper than Omni Breeze
+- Recommended over Omni Breeze/Deluxe if: budget is the top constraint, and 6 positions sound useful
+- Omni Breeze/Deluxe is better at: always-on breathability (mesh panel vs zip panel you must actively open); the Lillebaby panel must be unzipped to reveal mesh, which is easy to forget in July heat
+- Bulkier build and more complex position-switching than Omni Breeze
 
-**Alternative: BabyBjorn Harmony (~$230)**
-- Easiest to put on (slides over head, front buckles)
-- Great if either parent has shoulder mobility issues
-- Most expensive, less adjustable seat
+**Alternative: Tula Free-to-Grow ($179) -- BabyGearLab Editor's Choice**
+- BabyGearLab Editor's Choice 2025 for ease of use and comfort. (Source: [BabyGearLab](https://www.babygearlab.com/topics/getting-around/best-baby-carrier))
+- Mesh version available for summer
+- Recommended over Omni Breeze only if parent comfort and ease of use scores from BGL testing outweigh breathability priority
+- Omni Breeze is better at: always-on mesh breathability, lower price ($199 vs $179 -- only $20 apart), availability of used options
+- Notable gap: no hip carry position (3 positions vs 4 for Omni Breeze)
+
+**Upgrade: BabyBjorn Harmony ($249.99)**
+- Best ease of donning in this comparison: slides over head, front-only buckles (no reaching behind back)
+- Recommended over Omni Breeze only if: ease of putting on/off is the priority constraint (e.g., back or shoulder mobility issues for either parent)
+- Omni Breeze is better at: price ($50 cheaper), breathability is equivalent (both mesh), more customizable seat width
 
 ### Optional Add-on: Ring Sling
 
-**Wildbird Ring Sling (~$50--70)**
-- Not a primary carrier -- think of it as a quick-carry tool
+**WildBird Ring Sling (~$74)**
+- Not a primary carrier -- best as a quick-carry supplement
 - Great for: quick grocery runs, nursing while walking, hip carry for older babies, calming a fussy baby fast
-- Packs tiny (fits in a diaper bag pocket)
-- Single-layer linen = breathable for summer
-- Easy to find used ($25--40)
+- Packs into a diaper bag pocket (smallest storage footprint of any carrier type)
+- Single-layer linen = breathable for summer; better than wraps, not as consistent as always-on mesh SSCs
+- Easy to find used ($25--40 on Mercari/eBay)
 
 ---
 
@@ -184,13 +210,21 @@ Factors that matter most for us:
 
 > **Status:** Researching
 >
-> **Recommendation:** Get the **Ergobaby Omni Breeze** as your primary carrier (works birth to toddler, best breathability for July baby, easily shared). Optionally add a **Solly Baby Wrap** for the cozy newborn stage and/or a **Wildbird ring sling** for quick carries. Total: $200 for just the Omni Breeze, or ~$265--335 for a two-carrier setup.
+> **Recommendation:** Get the **Ergobaby Omni Breeze (~$199) or Omni Deluxe Mesh ($219)** as your primary carrier (works birth to toddler, best breathability in this comparison for July baby, easily shared between parents). Optionally add a **Solly Baby Wrap (~$74--88)** for the cozy newborn stage and/or a **WildBird ring sling (~$74)** for quick carries.
 >
-> **Registry note:** The Omni Breeze is an ideal registry item -- it's a recognizable brand at a gift-friendly price point. Put the Solly or Wildbird on the registry too if going with a two-carrier approach.
+> Total cost options:
+> - **Minimum:** Omni Breeze only = ~$199 (or ~$100--140 used). Works from birth -- no Phase 1 carrier needed.
+> - **Two-carrier setup:** Omni Breeze + Solly = ~$273--287. Recommended for the newborn experience.
+> - **Three-carrier setup:** Omni Breeze + Solly + WildBird = ~$347--361. Best flexibility; WildBird as quick-carry supplement.
+> - **Budget path:** Lillebaby All Seasons only = ~$100. Wirecutter's top pick; ~$99 cheaper than Omni Breeze; mesh requires active management vs always-on.
 >
-> **Used option:** The Omni Breeze is widely available on resale platforms (Facebook Marketplace, Mercari, Goodbuygear) for $100--140. Carriers are safe to buy used as long as buckles, straps, and fabric are structurally sound with no recalls. Check the [CPSC recall list](https://www.cpsc.gov/Recalls) before buying used.
+> **Registry note:** The Omni Breeze or Omni Deluxe Mesh is an ideal registry item -- recognizable brand at a gift-friendly price point. See [registry-strategy.md](registry-strategy.md) for platform guidance. Put the Solly and/or WildBird on the registry too if going with a multi-carrier approach.
+>
+> **Used option:** The Omni Breeze is widely available on resale platforms (Facebook Marketplace, Mercari, GoodBuyGear) for $100--140. The Omni Deluxe is newer and less common used (2025 release). Carriers are safe to buy used as long as buckles, straps, and fabric are structurally sound with no recalls. Check the [CPSC recall list](https://www.cpsc.gov/Recalls) before buying used.
 >
 > **Decision:** TBD -- discuss with partner
+
+*Updated 2026-03-02*
 
 ---
 

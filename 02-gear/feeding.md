@@ -63,8 +63,8 @@ The Affordable Care Act requires most health insurance plans to cover a breast p
 **Limitations to know:**
 - "Grandfathered" plans (pre-2010) may not be required to cover pumps (Source: [HHS.gov ACA Breast Pump FAQ](https://www.hhs.gov/answers/health-insurance-reform/are-breast-pumps-covered-by-the-affordable-care-act/index.html))
 - Coverage varies: your plan may only cover specific brands or pump types
-- Wearable/hands-free pumps often require an upgrade fee out of pocket
-- The Spectra S2 and Medela Pump in Style are the most commonly fully covered models
+- Wearable/hands-free pumps are more frequently covered than in previous years, but often still require an upgrade fee out of pocket
+- *Updated 2026-03-02:* The **Spectra S2 Plus remains the most commonly fully covered model** through insurance (most major plans: Blue Cross Blue Shield, Aetna, United Healthcare, Cigna, etc.). The Spectra S1 Plus is often covered with a small upgrade fee ($29–99). Medela Pump in Style is also widely covered. (Sources: [Aeroflow Spectra S2](https://aeroflowbreastpumps.com/spectra-s2-plus-double-electric-breast-pump), [1 Natural Way Spectra](https://www.1naturalway.com/brands/spectra), [Byram Baby Spectra](https://www.byrambaby.com/blog/post/how-to-order-an-insurance-covered-spectra-breast-pump))
 
 ### Pump Types Comparison
 
@@ -73,17 +73,23 @@ The Affordable Care Act requires most health insurance plans to cover a breast p
 | **Manual** | Cheap, portable, quiet, no batteries/cords | Tiring for frequent use, slow | Occasional pumping, relieving engorgement, travel backup | Medela Harmony (~$30), Lansinoh Manual (~$25) | $20–$40 |
 | **Single electric** | Moderate price, portable | Slower than double, one side at a time | Occasional pumping, backup | Medela Swing Flex (~$100) | $80–$150 |
 | **Double electric** | Fast (both sides at once), hospital-grade suction, most efficient for building/maintaining supply | Needs outlet or battery, less portable, tubing to manage | Regular pumping, EP, combo feeding, returning to work | Spectra S1 (~$200), Spectra S2 (~$160), Medela Pump in Style (~$170) | $150–$300 |
-| **Wearable / hands-free** | Fits in bra, no tubes, pump while doing other things, discreet | Lower suction than traditional, pricey, may not work for all body types | Pumping at work, multitasking, on-the-go | Elvie Pump (~$280), Elvie Stride (~$170), Momcozy M9 (~$60), Momcozy Air 1 (~$70) | $60–$350 |
+| **Wearable / hands-free** | Fits in bra, no tubes, pump while doing other things, discreet | Suction generally lower than traditional (though newer models closing gap), pricey, may not work for all body types | Pumping at work, multitasking, on-the-go | Elvie Stride 2 (~$270), Momcozy S12 Pro (~$150), Momcozy M9 (~$100), Willow Go (~$200) | $100–$300 |
+
+*Updated 2026-03-02:* **Wearable pump landscape update:** The wearable pump market has improved significantly. Key 2025-2026 developments:
+- **Elvie Stride 2** launched at ~$270 — hospital-grade suction up to -300 mmHg (significant improvement over original Elvie Pump's 220 mmHg), 6 nipple sizing inserts in the box, ultra-soft silicone cups, insurance-eligible. (Source: [Elvie Stride 2](https://elvie.com/products/elvie-stride-2))
+- **Momcozy S12 Pro and M9** are now insurance-eligible through many plans (covered by some Tricare, UPMC, Geisinger, and others; FSA/HSA eligible everywhere). Suction up to 300 mmHg with double-seal flange. More affordable than Elvie wearables. (Source: [Aeroflow Momcozy](https://aeroflowbreastpumps.com/breast-pumps/momcozy))
+- **Willow Go** and **Eufy S1 Pro** also now insurance-eligible through select plans.
+- Wearable pumps remain supplemental tools for most people — suction parity with Spectra is newer and not universally validated by lactation consultants.
 
 **Top picks by situation:**
 
-- **Best overall / most commonly covered by insurance:** Spectra S2 Plus — hospital-grade suction, lactation consultant favorite, ~$160 retail but often free through insurance (Source: [Spectra Baby USA](https://www.spectrababyusa.com/store/s1plus-/))
-- **Best if you want portability:** Spectra S1 Plus — same as S2 but with rechargeable battery, ~$200 retail, sometimes covered with small upgrade fee
-- **Best budget wearable:** Momcozy M9 or Air 1 — decent suction, very affordable for a wearable (~$60-70), good for supplemental pumping
-- **Best premium wearable:** Elvie Pump — quietest on the market (~28 dB), app-connected, but max suction of 220 mmHg may not be enough for everyone (Source: [BabyGearLab Best Breast Pumps](https://www.babygearlab.com/topics/nursing-feeding/best-breast-pump))
-- **Best manual backup:** Medela Harmony — everyone should have a manual pump as a backup regardless of primary pump choice
+- **Best overall / most commonly covered by insurance:** Spectra S2 Plus — hospital-grade suction (270 mmHg), lactation consultant favorite, ~$160 retail but often free through insurance. *Still the most consistently covered model across major insurers.* (Source: [Spectra Baby USA](https://www.spectrababyusa.com/how-to-get-a-spectra-pump-through-insurance/))
+- **Best if you want portability:** Spectra S1 Plus — same as S2 but with rechargeable battery, ~$200 retail, sometimes covered with small upgrade fee ($29–99)
+- **Best budget wearable:** Momcozy M9 — suction up to 300 mmHg, double-seal flange, now insurance-eligible through some plans (~$100 retail or reduced/free with coverage); better performance than earlier Momcozy models
+- **Best premium wearable:** Elvie Stride 2 — hospital-grade suction, best fit customization (6 inserts), insurance-eligible (~$270 retail); significant upgrade over original Elvie Pump
+- **Best manual backup:** Medela Harmony — everyone should have a manual pump as a backup regardless of primary pump choice (~$30)
 
-> **Our situation:** Since feeding plan is TBD, order a double electric through insurance (Spectra S2 or S1) before baby arrives. Consider adding a manual pump ($25-30) as a backup. Wait on wearable pumps until you know your pumping needs and frequency.
+> **Our situation:** Since feeding plan is TBD, order a double electric through insurance (Spectra S2 or S1) before baby arrives — this remains the correct default. Consider adding a manual pump ($25-30) as a backup. Wait on wearable pumps until you know your pumping needs and frequency; if returning to work and need hands-free pumping, the Momcozy M9 (insurance-eligible) or Elvie Stride 2 (premium) are the current top picks. See [full pump comparison](../06-feeding/pumping.md) for detailed pump research.
 
 ---
 
@@ -95,20 +101,21 @@ The Affordable Care Act requires most health insurance plans to cover a breast p
 
 **Status:** Researching
 
-| Feature | My Brest Friend (~$40) | Boppy Original (~$35) |
-|---------|----------------------|----------------------|
-| **Shape** | Flat, firm surface; wraps fully around body with back support and buckle closure | C-shaped soft pillow, no strap |
-| **Stability** | Excellent — buckles in place, doesn't slide | Fair — can slip during feeds, especially early on when you're still learning |
-| **Firmness** | Firm, flat nursing surface keeps baby at consistent height | Softer, more pillow-like; baby can sink in |
-| **Portability** | Bulkier due to back support | Lighter, easier to toss in a bag |
-| **Versatility** | Nursing only | Tummy time, lounger, sitting support as baby grows |
-| **Extras** | Built-in pocket for snacks/phone/burp cloth | Many cover options, machine-washable covers |
-| **Cover removal** | Difficult to remove and replace cover | Easy to remove and wash |
-| **Best for** | Dedicated nursing support, C-section recovery (firm + stays put), smaller-framed parents | Multi-use, plus-sized parents (more room), casual nursing |
+*Updated 2026-03-02: Prices verified, Blessed Nest added (BabyGearLab Editor's Choice), Situation Fit column added.*
 
-(Sources: [Babylist My Brest Friend vs Boppy](https://www.babylist.com/hello-baby/my-brest-friend-vs-boppy), [BabyGearLab Nursing Pillows](https://www.babygearlab.com/topics/nursing-feeding/best-nursing-pillow), [In Life and Littles Comparison](https://inlifeandlittles.com/blog/boppy-my-brest-friend-comparison))
+| Option | Price | Shape / Support | Stability | Versatility | Cover | Situation Fit |
+|--------|-------|-----------------|-----------|-------------|-------|---------------|
+| **My Brest Friend Deluxe** | ~$57 | Flat firm surface, wraps fully around body, buckle closure, built-in back support | **Excellent** — buckles in place, stays put | Nursing only | Difficult to remove/wash | **Good** — best for learning to latch; firm flat surface helps position baby consistently; slightly bulky for apartment storage but worth it for BF success; price is reasonable for a registry item |
+| **Boppy Original** | ~$40 | C-shaped soft pillow, no strap | Fair — can slip during early feeds | Tummy time, lounger, sitting support as baby grows | Easy remove, machine washable | **Good** — multi-use extends life in a small apartment; lighter to toss around; BabyGearLab Best Value pick; downside is the sliding, which is annoying when learning to latch |
+| **Blessed Nest Organic Nesting** | ~$118 | Quarter-moon shape, buckwheat hull fill molds to body, firm yet adjustable | Good — moldable fill keeps position | Nursing and pregnancy support | Machine-washable organic cotton slipcover | **Fair** — BabyGearLab Editor's Choice; excellent quality organic materials; but at $118 it's significantly over moderate budget and the specialty fill (buckwheat hulls) is harder to find covered on a registry |
 
-> **Recommendation:** My Brest Friend if nursing support is the priority (the stability is a real advantage for learning to latch). Boppy if you want something that doubles as baby lounger/tummy time prop and don't mind it sliding around. Either way, this is a good registry item — ~$35-40.
+*Evidence:* BabyGearLab tested 37+ nursing pillows; Blessed Nest won Editor's Choice for superior comfort and materials; Boppy earned Best Value Award. Mommyhood101 rates My Brest Friend #1 (10/10) for functional nursing support. (Sources: [BabyGearLab Nursing Pillows](https://www.babygearlab.com/topics/nursing-feeding/best-nursing-pillow), [Mommyhood101 Best Nursing Pillows 2026](https://mommyhood101.com/best-nursing-pillows), [My Brest Friend Deluxe price](https://www.mybrestfriend.com/products/deluxe-nursing-pillow), [Babylist My Brest Friend vs Boppy](https://www.babylist.com/hello-baby/my-brest-friend-vs-boppy), [In Life and Littles Comparison](https://inlifeandlittles.com/blog/boppy-my-brest-friend-comparison))
+
+> **Recommendation:** **My Brest Friend Deluxe** is recommended over the Boppy for the specific goal of establishing breastfeeding — the buckle-in stability and flat firm surface are a meaningful advantage when you're a first-time nurser learning positioning; the Boppy is better for multi-use versatility (tummy time, sitting support) but its tendency to slip is a real drawback in the early latch-learning weeks. The Blessed Nest is BabyGearLab's top overall pick but at $118 it's over budget and narrowly nursing-focused; put it on the registry as an "if someone wants to splurge" option.
+>
+> *Among the pillows compared here, My Brest Friend offers the best combination of nursing support and price (~$57) for this situation. The Boppy at ~$40 is the stronger multi-use value if a versatile pillow that can serve post-nursing purposes is the priority.*
+>
+> **Price note:** My Brest Friend has increased since earlier research (~$40 → ~$57 for Deluxe). Still a reasonable registry item. The Original version may be available at a lower price point — verify at checkout. (Verified: [mybrestfriend.com](https://www.mybrestfriend.com/products/deluxe-nursing-pillow), 2026-03-02)
 
 ---
 
@@ -123,17 +130,25 @@ The Affordable Care Act requires most health insurance plans to cover a breast p
 - Buy **2-3 bottles of one brand** first, then buy more if baby accepts them
 - Babies are notoriously picky — what works for one may not work for yours
 
-| Bottle | Price | Key Features | Best For | Notes |
-|--------|-------|-------------|----------|-------|
-| **Dr. Brown's Options+** | ~$6/bottle ($18/3-pack) | Internal vent system reduces colic and gas; available in narrow and wide-neck | Anti-colic, gassy babies | Gold standard for colic reduction; extra parts to clean (vent inserts); can remove vent as baby grows |
-| **Comotomo** | ~$13/bottle ($23/2-pack) | Soft silicone body (squeezable like breast), wide neck, dual anti-colic vents | Breastfed babies transitioning to bottle | Very easy to clean (wide mouth); no extra parts; breast-like feel; pricier per bottle |
-| **Philips Avent Natural** | ~$8/bottle ($16-20/3-pack) | Wide breast-shaped nipple, Airflex anti-colic vent, soft flexible nipple | Combo feeding, budget-friendly | Good middle ground of price and features; widely available; compatible with Philips pump |
-| **Lansinoh mOmma NaturalWave** | ~$11/bottle ($20/3-pack) | NaturalWave nipple clinically shown to reduce nipple confusion; AVS anti-colic system | Breastfed babies, reducing nipple confusion | Designed specifically for breast-to-bottle transition; compatible with Lansinoh pump and storage bags |
-| **MAM Easy Start Anti-Colic** | ~$8/bottle | Ultra-soft silicone nipple, self-sterilizing in microwave, vented base | Budget option with good anti-colic features | Won Gold for bottle feeding (2026 Mother&Baby Awards); base unscrews for easy sterilizing |
+*Updated 2026-03-02: Prices verified; Comotomo Gen 2 (2026 release) noted; Situation Fit column added; category leaders confirmed.*
 
-(Sources: [BabyGearLab Best Baby Bottles](https://www.babygearlab.com/topics/nursing-feeding/best-baby-bottle), [Mommyhood101 Best Baby Bottles](https://mommyhood101.com/best-baby-bottle), [Thrive Little Best Bottles for Breastfed Babies](https://thrivelittle.com/best-bottles-for-breastfed-babies/))
+**2026 note:** Comotomo released a Gen 2 version (labeled "2026 Release" on Amazon) with a redesigned nipple (truer slow-flow via laser puncture, reinforced to prevent collapse), improved ring assembly to reduce leaks, and clearer flow-level markings. Core design (wide-neck silicone, dual anti-colic vents) unchanged. The Gen 2 is the current version to buy for newborns. (Source: [Amazon Comotomo Gen 2 listing](https://www.amazon.com/Comotomo-Silicone-Bottle-2-2026-Release/dp/B0G6N65XVL))
 
-> **Recommendation for combo feeding:** Register for both a Comotomo 2-pack (~$23) and a Dr. Brown's Options+ 3-pack (~$18) — ~$41 total covers two top-rated options. **Try Comotomo first** (breast-like feel, easy to clean, great for breast-to-bottle transition). If baby rejects Comotomo or has colic/gas issues, switch to Dr. Brown's (gold standard anti-colic venting). At ~$41 for both, the registry covers you without a panic buy. Budget pick: Philips Avent Natural. Don't open both at once — start with Comotomo and keep Dr. Brown's sealed as backup.
+| Bottle | Price | Key Features | Best For | Category Leaders | Situation Fit |
+|--------|-------|-------------|----------|-----------------|---------------|
+| **Comotomo (Gen 2, 5oz 2-pack)** | ~$22–24/2-pack (~$11-12/bottle) | Soft silicone body (squeezable), wide neck, dual anti-colic vents; Gen 2 adds true slow-flow nipple, improved leak-proof ring | Breastfed babies transitioning to bottle, combo feeding | **Reviewed.com #1 overall (2026); Mommyhood101 #1 overall** | **Excellent** — breast-like feel is highest priority for combo feeding/breastfeeding intention; easiest to clean (no parts); top pick from multiple review sources; price is moderate and appropriate for registry |
+| **Dr. Brown's Options+** | ~$6-7/bottle (~$19/3-pack) | Internal vent system reduces colic and gas; narrow and wide-neck versions; can remove vent as baby grows | Anti-colic, gassy babies; long-term value (vented or unvented) | **Mommyhood101 #3; widely cited as gold standard for colic** | **Good** — strong colic-reduction if needed; more parts to clean is the main trade-off; at ~$6/bottle it's budget-friendly; good backup to Comotomo on the registry |
+| **Philips Avent Natural Response** | ~$6-8/bottle (~$18-31/3-pack) | Wide breast-shaped nipple, twin anti-colic valve, soft flexible nipple; updated Natural Response nipple requires active suck | Combo feeding, budget-friendly, compatible with Philips pump | **Reviewed.com Best Value (2026)** | **Good** — good price/feature balance; widely available; if using a Philips pump, direct compatibility is a plus; Natural Response nipple design mimics breastfeeding well |
+| **Lansinoh mOmma NaturalWave** | ~$11/bottle (~$20/3-pack) | NaturalWave nipple clinically shown to reduce nipple confusion; AVS anti-colic system; Lansinoh pump compatible | Breastfed babies, reducing nipple confusion | Lansinoh pump compatibility is its main differentiator | **Fair** — strong concept; compatibility advantage only if using Lansinoh pump; less tested in major reviews than Comotomo or Dr. Brown's |
+| **MAM Easy Start Anti-Colic** | ~$6-8/bottle | Ultra-soft silicone nipple, self-sterilizing in microwave, vented base | Anti-colic, budget option | Won Gold for bottle feeding (2026 Mother&Baby Awards) | **Fair** — self-sterilizing is a nice feature; less commonly recommended by US-focused evidence-based sources vs UK-focused awards |
+
+*Evidence:* Comotomo rated #1 overall by both Reviewed.com and Mommyhood101 for 2026. Dr. Brown's rated top for anti-colic/newborns. BabyGearLab highlights Comotomo for breastfeeding transition. "Babies are notoriously picky" — what works for one may not work for yours; starting with a small batch is always correct. (Sources: [Reviewed.com Best Baby Bottles 2026](https://www.reviewed.com/parenting/best-right-now/best-baby-bottles), [Mommyhood101 Best Baby Bottles 2026](https://mommyhood101.com/best-baby-bottle), [BabyGearLab Best Baby Bottles](https://www.babygearlab.com/topics/nursing-feeding/best-baby-bottle))
+
+> **Recommendation for combo feeding:** Register for a **Comotomo Gen 2 5oz 2-pack** (~$22-24) and a **Dr. Brown's Options+ 3-pack** (~$19) — roughly $41-43 total covers the top-rated breast-to-bottle option and the top anti-colic backup. **Try Comotomo Gen 2 first** (confirmed #1 pick for breastfed-to-bottle transition in multiple 2026 reviews; wide silicone body, true slow-flow nipple). If baby rejects Comotomo or has significant colic/gas issues, switch to Dr. Brown's.
+>
+> *Comotomo is recommended over Dr. Brown's as the first try because of its breast-like silicone body and simpler cleaning (no vent parts); Dr. Brown's is better at colic reduction but requires cleaning an internal vent system with every wash. Both are #1 picks in their respective niches.*
+>
+> **Don't open both at once** — start with Comotomo and keep Dr. Brown's sealed as backup. Budget pick if registry misses: Philips Avent Natural Response (~$6-8/bottle).
 
 ---
 
@@ -245,17 +260,19 @@ A 2024 peer-reviewed study found that paced bottle feeding effectively slowed fe
 
 *Added 2026-02-28*
 
+*Updated 2026-03-02: Prices verified/corrected; Comotomo Gen 2 noted.*
+
 | Item | Top Pick | Price | Status | Buy When |
 |------|----------|-------|--------|----------|
-| Nursing pillow | My Brest Friend (stability) or Boppy (versatility) | ~$35-40 | Researched | Before baby — registry item |
-| Bottles (starter) | Comotomo 2-pack + Dr. Brown's Options+ 3-pack | ~$41 | Researched | Before baby — both on registry; try Comotomo first |
+| Nursing pillow | My Brest Friend Deluxe (stability) or Boppy (versatility) | ~$40–57 | Researched | Before baby — registry item |
+| Bottles (starter) | Comotomo Gen 2 5oz 2-pack + Dr. Brown's Options+ 3-pack | ~$41-43 | Researched | Before baby — both on registry; try Comotomo first |
 | Bottle brush | OXO Tot with Stand | ~$10 | Researched | Before baby |
 | Drying rack | Boon Grass | ~$16 | Researched | Before baby — registry item |
-| Breast pump | Spectra S2 (insurance) + manual backup | Free–$30 | Researched | Order at 30+ weeks |
+| Breast pump | Spectra S2 Plus (insurance) + manual backup | Free–$30 | Researched | Order at 30+ weeks |
 | Storage bags | Lansinoh 50ct | ~$8 | Researched | Before baby if pumping |
 | Nipple cream | Lansinoh Lanolin | ~$10 | Researched | Before baby |
 | Breast pads | Lansinoh Disposable 60ct | ~$9 | Researched | Before baby |
-| **Total estimate (before baby)** | | **~$130-155** | | *Pump via insurance; doesn't include formula or nursing bras* |
+| **Total estimate (before baby)** | | **~$134-163** | | *Pump via insurance; doesn't include formula or nursing bras* |
 
 ---
 
@@ -271,3 +288,4 @@ A 2024 peer-reviewed study found that paced bottle feeding effectively slowed fe
 
 *Created 2026-02-28*
 *Updated 2026-02-28: Added breast pump guide, bottle research, paced feeding evidence, product recommendations with prices, buy-before-baby vs wait list*
+*Updated 2026-03-02: Verified/corrected prices (My Brest Friend Deluxe now $56.95; confirmed BabyGearLab Editor's Choice = Blessed Nest at $118); added Situation Fit columns to nursing pillow and bottle tables; added Blessed Nest to nursing pillow comparison; confirmed Comotomo as #1 bottle pick across multiple 2026 reviews; noted Comotomo Gen 2 (2026 release) with improved nipple; updated wearable pump landscape (Elvie Stride 2, Momcozy S12 Pro/M9 insurance-eligible); confirmed Spectra S2 remains most-covered insurance pump; added cross-link to pumping.md*
