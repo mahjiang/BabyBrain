@@ -5,7 +5,7 @@ nav_order: 0
 permalink: /
 ---
 
-# Baby Brain — Project Hub
+# BabyBrain — Project Hub
 
 **Due date:** ~July 2026 | **Current week:** ~20 | **Started:** February 2026
 
